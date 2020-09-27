@@ -1,0 +1,90 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+	background-color: Beige;
+ }
+
+.container {
+  width: 60%; 
+  margin: auto;
+}
+
+
+img {
+	box-shadow: 10px 10px 5px grey; 
+	display: block;	
+	margin-left: auto;
+	margin-right:auto;
+	width:18%;
+}
+
+.position {
+	background-color: #aad3a7;
+	box-shadow: 8px 8px 8px grey;
+}
+
+.position2 {
+	background-color: #aad3a7;
+	box-shadow: 8px 8px 8px grey;
+}
+
+.position3 {
+	background-color: #aad3a7;
+	box-shadow: 8px 8px 8px grey;
+}
+
+.education {
+	background-color: #aad3a7;
+	box-shadow: 8px 8px 8px grey;
+}
+
+.education1 {
+	background-color: #aad3a7;
+	box-shadow: 8px 8px 8px grey;
+}
+
+.education2 {
+	background-color: #aad3a7;
+	box-shadow: 8px 8px 8px grey;
+}
+
+h2 {
+	font-size: 1.6em;
+	text-shadow: 3px 3px 3px grey;
+	border: solid 2px lightseagreen;
+	color: black; 
+	background-color: Lavenderblush;
+	text-align: center;
+	border-radius: 10px;
+}
+
+h3 {
+  font-weight: normal;
+  color: black;
+  font-size: 18px;
+	background-color: #aad3a7;
+	box-shadow: 8px 8px 8px grey;
+  text-indent: 30px;
+}
+
+
+p {
+	color: #20719E;
+	text-align: center;
+}
+
+
+ul {
+	font-weight: normal;
+	font-size: 18px;
+	background-color: #aad3a7;
+	box-shadow: 8px 8px 8px grey;
+}
+
+ol {
+	background-color: #aad3a7;
+	box-shadow: 8px 8px 8px grey;
+}
+
